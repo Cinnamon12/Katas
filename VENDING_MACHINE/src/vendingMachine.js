@@ -1,3 +1,4 @@
+"use strict";
 function vendingMachineController() {
 
   this.isCoinValid = isCoinValid;
